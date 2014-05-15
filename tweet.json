@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Nov 07 20:05:17 +0000 2012",
+  "id": 266270116780576768,
+  "id_str": "266270116780576768",
+  "text": "want to work on large scale? \"Of course, we still have plenty more to do.\" #JoinTheFlock http://t.co/cEoSgiip",
+  "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 8285392,
+    "id_str": "8285392",
+    "name": "Raffi Krikorian",
+    "screen_name": "raffi",
+    "location": "San Francisco, California",
+    "description": "VP, Platform Engineering @ Twitter. i break all the things.",
+    "url": "http://t.co/awKEGLkvH1",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/awKEGLkvH1",
+            "expanded_url": "http://about.me/raffi.krikorian",
+            "display_url": "about.me/raffi.krikorian",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 23444,
+    "friends_count": 838,
+    "listed_count": 732,
+    "created_at": "Sun Aug 19 14:24:06 +0000 2007",
+    "favourites_count": 2764,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6281,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1270234259/raffi-headshot-casual_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270234259/raffi-headshot-casual_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/8285392/1346885526",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweet_count": 38,
+  "favorite_count": 21,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "JoinTheFlock",
+        "indices": [
+          75,
+          88
+        ]
+      }
+    ],
+    "symbols": [
+
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/cEoSgiip",
+        "expanded_url": "http://engineering.twitter.com/2012/11/bolstering-our-infrastructure.html?utm_source=dlvr.it&utm_medium=twitter",
+        "display_url": "engineering.twitter.com/2012/11/bolste…",
+        "indices": [
+          89,
+          109
+        ]
+      }
+    ],
+    "user_mentions": [
+
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
+nil
